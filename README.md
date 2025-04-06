@@ -31,7 +31,7 @@ Feel free to explore, collaborate, and innovate with me! Let's turn ideas into r
 ### Connect With Me! 🌐
 - **GitHub**: [Lakshya's GitHub](#)  
 - **LinkedIn**: [Lakshya Rohila](#)  
-- **Email**: rohila.lakshdeep272@gmail.com 📧  
+- **Email**: lakshdeep272@gmail.com 📧  
 
 ---
 
