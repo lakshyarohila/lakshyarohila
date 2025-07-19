@@ -29,10 +29,9 @@ Feel free to explore, collaborate, and innovate with me! Let's turn ideas into r
 ---
 
 ### Connect With Me! 🌐
-- **GitHub**: [Lakshya's GitHub](#)  
-- **LinkedIn**: [Lakshya Rohila](#)  
-- **Email**: lakshdeep272@gmail.com 📧  
-
+ 
+- **LinkedIn**: [Lakshya Rohila](https://www.linkedin.com/in/lakshya-rohila-013aba311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- **Email**: lakshdeep272@gmail.com 📧
 ---
 
 Happy coding and creating! 💻✨
